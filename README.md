@@ -1,4 +1,4 @@
-# 🛠️ Leave Management System Flutter X Golang X MSSQL
+# 🛠️ Flutter X Golang Leave Management System
 
 A modern leave management system built with **Flutter**, **Golang**, and **MSSQL Server**.  
 Designed with role-based access control, secure session handling, and an intuitive user experience.
